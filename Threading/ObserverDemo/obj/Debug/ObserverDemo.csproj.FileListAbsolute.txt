@@ -1,0 +1,6 @@
+G:\学习\Threading\ObserverDemo\bin\Debug\ObserverDemo.exe.config
+G:\学习\Threading\ObserverDemo\bin\Debug\ObserverDemo.exe
+G:\学习\Threading\ObserverDemo\bin\Debug\ObserverDemo.pdb
+G:\学习\Threading\ObserverDemo\obj\Debug\ObserverDemo.csprojResolveAssemblyReference.cache
+G:\学习\Threading\ObserverDemo\obj\Debug\ObserverDemo.exe
+G:\学习\Threading\ObserverDemo\obj\Debug\ObserverDemo.pdb

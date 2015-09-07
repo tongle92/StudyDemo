@@ -1,0 +1,12 @@
+G:\学习\Threading\Threading\bin\Debug\Threading.exe.config
+G:\学习\Threading\Threading\bin\Debug\Threading.exe
+G:\学习\Threading\Threading\bin\Debug\Threading.pdb
+G:\学习\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+G:\学习\Threading\Threading\obj\Debug\Threading.exe
+G:\学习\Threading\Threading\obj\Debug\Threading.pdb
+F:\学习\Threading\Threading\bin\Debug\Threading.exe.config
+F:\学习\Threading\Threading\obj\Debug\Threading.exe
+F:\学习\Threading\Threading\obj\Debug\Threading.pdb
+F:\学习\Threading\Threading\bin\Debug\Threading.exe
+F:\学习\Threading\Threading\bin\Debug\Threading.pdb
+F:\学习\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache

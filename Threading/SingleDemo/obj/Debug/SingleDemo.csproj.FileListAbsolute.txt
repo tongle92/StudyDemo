@@ -1,0 +1,6 @@
+F:\学习\Threading\SingleDemo\bin\Debug\SingleDemo.exe.config
+F:\学习\Threading\SingleDemo\bin\Debug\SingleDemo.exe
+F:\学习\Threading\SingleDemo\bin\Debug\SingleDemo.pdb
+F:\学习\Threading\SingleDemo\obj\Debug\SingleDemo.csprojResolveAssemblyReference.cache
+F:\学习\Threading\SingleDemo\obj\Debug\SingleDemo.exe
+F:\学习\Threading\SingleDemo\obj\Debug\SingleDemo.pdb

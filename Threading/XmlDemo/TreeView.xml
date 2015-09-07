@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Screen name="屏幕1">
+  <Item name="节目1">
+    <Caption name="字幕1">
+      <font>宋体</font>
+      <size>2</size>
+      <text>abcd</text>
+    </Caption>
+    <Caption name="字幕2">
+      <font>宋体</font>
+      <size>2</size>
+      <text>abcd</text>
+    </Caption>
+    <Caption name="字幕3">
+      <font>宋体</font>
+      <size>2</size>
+      <text>abcd</text>
+    </Caption>
+    <Caption name="字幕4">
+      <font>宋体</font>
+      <size>2</size>
+      <text>abcd</text>
+    </Caption>
+    <Caption name="字幕5">
+      <font>宋体</font>
+      <size>2</size>
+      <text>abcd</text>
+    </Caption>
+  </Item>
+  <Item name="节目2">
+    <Caption name="字幕6">
+      <font>宋体</font>
+      <size>2</size>
+      <text>abcd</text>
+    </Caption>
+    <Caption name="字幕7">
+      <font>宋体</font>
+      <size>2</size>
+      <text>abcd</text>
+    </Caption>
+    <Caption name="字幕8">
+      <font>宋体</font>
+      <size>2</size>
+      <text>abcd</text>
+    </Caption>
+    <Caption name="字幕9">
+      <font>宋体</font>
+      <size>2</size>
+      <text>abcd</text>
+    </Caption>
+  </Item>
+</Screen>

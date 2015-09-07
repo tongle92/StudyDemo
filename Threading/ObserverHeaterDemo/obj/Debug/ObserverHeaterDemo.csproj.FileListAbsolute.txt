@@ -1,0 +1,9 @@
+G:\学习\Threading\ObserverHeaterDemo\bin\Debug\ObserverHeaterDemo.exe.config
+G:\学习\Threading\ObserverHeaterDemo\bin\Debug\ObserverHeaterDemo.exe
+G:\学习\Threading\ObserverHeaterDemo\bin\Debug\ObserverHeaterDemo.pdb
+G:\学习\Threading\ObserverHeaterDemo\obj\Debug\ObserverHeaterDemo.csprojResolveAssemblyReference.cache
+G:\学习\Threading\ObserverHeaterDemo\obj\Debug\ObserverHeaterDemo.exe
+G:\学习\Threading\ObserverHeaterDemo\obj\Debug\ObserverHeaterDemo.pdb
+F:\学习\Threading\ObserverHeaterDemo\bin\Debug\ObserverHeaterDemo.exe.config
+F:\学习\Threading\ObserverHeaterDemo\obj\Debug\ObserverHeaterDemo.exe
+F:\学习\Threading\ObserverHeaterDemo\obj\Debug\ObserverHeaterDemo.pdb

@@ -1,0 +1,6 @@
+G:\学习\Threading\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+G:\学习\Threading\ThreadDemo\bin\Debug\ThreadDemo.exe
+G:\学习\Threading\ThreadDemo\bin\Debug\ThreadDemo.pdb
+G:\学习\Threading\ThreadDemo\obj\Debug\ThreadDemo.csprojResolveAssemblyReference.cache
+G:\学习\Threading\ThreadDemo\obj\Debug\ThreadDemo.exe
+G:\学习\Threading\ThreadDemo\obj\Debug\ThreadDemo.pdb

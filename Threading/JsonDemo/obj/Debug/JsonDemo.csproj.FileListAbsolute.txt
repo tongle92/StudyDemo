@@ -1,0 +1,6 @@
+F:\学习\Threading\JsonDemo\bin\Debug\JsonDemo.exe.config
+F:\学习\Threading\JsonDemo\obj\Debug\JsonDemo.csprojResolveAssemblyReference.cache
+F:\学习\Threading\JsonDemo\bin\Debug\JsonDemo.exe
+F:\学习\Threading\JsonDemo\bin\Debug\JsonDemo.pdb
+F:\学习\Threading\JsonDemo\obj\Debug\JsonDemo.exe
+F:\学习\Threading\JsonDemo\obj\Debug\JsonDemo.pdb

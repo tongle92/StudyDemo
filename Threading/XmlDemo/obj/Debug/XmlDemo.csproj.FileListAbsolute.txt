@@ -1,0 +1,6 @@
+F:\学习\Threading\XmlDemo\bin\Debug\XmlDemo.exe.config
+F:\学习\Threading\XmlDemo\bin\Debug\XmlDemo.exe
+F:\学习\Threading\XmlDemo\bin\Debug\XmlDemo.pdb
+F:\学习\Threading\XmlDemo\obj\Debug\XmlDemo.csprojResolveAssemblyReference.cache
+F:\学习\Threading\XmlDemo\obj\Debug\XmlDemo.exe
+F:\学习\Threading\XmlDemo\obj\Debug\XmlDemo.pdb

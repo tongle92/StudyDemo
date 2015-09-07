@@ -1,0 +1,9 @@
+G:\学习\Threading\ProgressBarForm\bin\Debug\ProgressBarForm.exe.config
+G:\学习\Threading\ProgressBarForm\bin\Debug\ProgressBarForm.exe
+G:\学习\Threading\ProgressBarForm\bin\Debug\ProgressBarForm.pdb
+G:\学习\Threading\ProgressBarForm\obj\Debug\ProgressBarForm.csprojResolveAssemblyReference.cache
+G:\学习\Threading\ProgressBarForm\obj\Debug\ProgressBarForm.Form1.resources
+G:\学习\Threading\ProgressBarForm\obj\Debug\ProgressBarForm.Properties.Resources.resources
+G:\学习\Threading\ProgressBarForm\obj\Debug\ProgressBarForm.csproj.GenerateResource.Cache
+G:\学习\Threading\ProgressBarForm\obj\Debug\ProgressBarForm.exe
+G:\学习\Threading\ProgressBarForm\obj\Debug\ProgressBarForm.pdb
