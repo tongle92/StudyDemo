@@ -4,3 +4,9 @@ G:\学习\Threading\ObserverDemo\bin\Debug\ObserverDemo.pdb
 G:\学习\Threading\ObserverDemo\obj\Debug\ObserverDemo.csprojResolveAssemblyReference.cache
 G:\学习\Threading\ObserverDemo\obj\Debug\ObserverDemo.exe
 G:\学习\Threading\ObserverDemo\obj\Debug\ObserverDemo.pdb
+F:\学习\StudyDemo\Threading\ObserverDemo\bin\Debug\ObserverDemo.exe.config
+F:\学习\StudyDemo\Threading\ObserverDemo\bin\Debug\ObserverDemo.exe
+F:\学习\StudyDemo\Threading\ObserverDemo\bin\Debug\ObserverDemo.pdb
+F:\学习\StudyDemo\Threading\ObserverDemo\obj\Debug\ObserverDemo.csprojResolveAssemblyReference.cache
+F:\学习\StudyDemo\Threading\ObserverDemo\obj\Debug\ObserverDemo.exe
+F:\学习\StudyDemo\Threading\ObserverDemo\obj\Debug\ObserverDemo.pdb

@@ -10,6 +10,10 @@ namespace DelegateDemo
     public delegate void MakeGreetingDel(string name);
     class Program
     {
+        /// <summary>
+        /// 主应用程序
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             #region 在方法里分别传不同的变量和方法
@@ -49,9 +53,6 @@ namespace DelegateDemo
             greet.GreetPeople("aa");
 
             Console.Read();
-            #endregion
-
-            #region 
             #endregion
         }
 

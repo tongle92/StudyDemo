@@ -10,3 +10,9 @@ F:\学习\Threading\Threading\obj\Debug\Threading.pdb
 F:\学习\Threading\Threading\bin\Debug\Threading.exe
 F:\学习\Threading\Threading\bin\Debug\Threading.pdb
 F:\学习\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+F:\学习\StudyDemo\Threading\Threading\bin\Debug\Threading.exe.config
+F:\学习\StudyDemo\Threading\Threading\bin\Debug\Threading.exe
+F:\学习\StudyDemo\Threading\Threading\bin\Debug\Threading.pdb
+F:\学习\StudyDemo\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+F:\学习\StudyDemo\Threading\Threading\obj\Debug\Threading.exe
+F:\学习\StudyDemo\Threading\Threading\obj\Debug\Threading.pdb

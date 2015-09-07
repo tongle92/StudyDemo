@@ -4,3 +4,9 @@ G:\学习\Threading\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
 G:\学习\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csprojResolveAssemblyReference.cache
 G:\学习\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
 G:\学习\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb
+F:\学习\StudyDemo\Threading\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
+F:\学习\StudyDemo\Threading\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
+F:\学习\StudyDemo\Threading\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
+F:\学习\StudyDemo\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.csprojResolveAssemblyReference.cache
+F:\学习\StudyDemo\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
+F:\学习\StudyDemo\Threading\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb

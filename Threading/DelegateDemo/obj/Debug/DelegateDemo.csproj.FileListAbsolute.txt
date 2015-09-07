@@ -4,3 +4,9 @@ G:\学习\Threading\DelegateDemo\bin\Debug\DelegateDemo.exe
 G:\学习\Threading\DelegateDemo\bin\Debug\DelegateDemo.pdb
 G:\学习\Threading\DelegateDemo\obj\Debug\DelegateDemo.exe
 G:\学习\Threading\DelegateDemo\obj\Debug\DelegateDemo.pdb
+F:\学习\StudyDemo\Threading\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+F:\学习\StudyDemo\Threading\DelegateDemo\bin\Debug\DelegateDemo.exe
+F:\学习\StudyDemo\Threading\DelegateDemo\bin\Debug\DelegateDemo.pdb
+F:\学习\StudyDemo\Threading\DelegateDemo\obj\Debug\DelegateDemo.csprojResolveAssemblyReference.cache
+F:\学习\StudyDemo\Threading\DelegateDemo\obj\Debug\DelegateDemo.exe
+F:\学习\StudyDemo\Threading\DelegateDemo\obj\Debug\DelegateDemo.pdb

@@ -4,3 +4,9 @@ F:\学习\Threading\StaticDemo\bin\Debug\StaticDemo.exe
 F:\学习\Threading\StaticDemo\bin\Debug\StaticDemo.pdb
 F:\学习\Threading\StaticDemo\obj\Debug\StaticDemo.exe
 F:\学习\Threading\StaticDemo\obj\Debug\StaticDemo.pdb
+F:\学习\StudyDemo\Threading\StaticDemo\bin\Debug\StaticDemo.exe.config
+F:\学习\StudyDemo\Threading\StaticDemo\bin\Debug\StaticDemo.exe
+F:\学习\StudyDemo\Threading\StaticDemo\bin\Debug\StaticDemo.pdb
+F:\学习\StudyDemo\Threading\StaticDemo\obj\Debug\StaticDemo.csprojResolveAssemblyReference.cache
+F:\学习\StudyDemo\Threading\StaticDemo\obj\Debug\StaticDemo.exe
+F:\学习\StudyDemo\Threading\StaticDemo\obj\Debug\StaticDemo.pdb

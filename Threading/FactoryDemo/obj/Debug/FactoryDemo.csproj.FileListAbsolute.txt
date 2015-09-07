@@ -4,3 +4,9 @@ F:\学习\Threading\FactoryDemo\bin\Debug\FactoryDemo.exe
 F:\学习\Threading\FactoryDemo\bin\Debug\FactoryDemo.pdb
 F:\学习\Threading\FactoryDemo\obj\Debug\FactoryDemo.exe
 F:\学习\Threading\FactoryDemo\obj\Debug\FactoryDemo.pdb
+F:\学习\StudyDemo\Threading\FactoryDemo\bin\Debug\FactoryDemo.exe.config
+F:\学习\StudyDemo\Threading\FactoryDemo\bin\Debug\FactoryDemo.exe
+F:\学习\StudyDemo\Threading\FactoryDemo\bin\Debug\FactoryDemo.pdb
+F:\学习\StudyDemo\Threading\FactoryDemo\obj\Debug\FactoryDemo.csprojResolveAssemblyReference.cache
+F:\学习\StudyDemo\Threading\FactoryDemo\obj\Debug\FactoryDemo.exe
+F:\学习\StudyDemo\Threading\FactoryDemo\obj\Debug\FactoryDemo.pdb
