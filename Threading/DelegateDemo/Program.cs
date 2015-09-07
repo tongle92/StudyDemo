@@ -50,11 +50,6 @@ namespace DelegateDemo
 
             Console.Read();
             #endregion
-
-
-
-
-
         }
 
     }
@@ -92,7 +87,7 @@ namespace DelegateDemo
             makeGreetDel(name);
         }
 
-        public  MakeGreetingDel del;
+        public MakeGreetingDel del;
 
         /// <summary>
         /// 问候方法
@@ -101,7 +96,7 @@ namespace DelegateDemo
         /// <param name="makeGreetDel"></param>
         public void GreetPeople(string name)
         {
-            if(del!=null)
+            if (del != null)
                 del(name);
         }
     }
