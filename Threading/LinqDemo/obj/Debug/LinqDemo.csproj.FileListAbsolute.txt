@@ -7,3 +7,6 @@ F:\学习\Threading\LinqDemo\obj\Debug\LinqDemo.pdb
 F:\学习\StudyDemo\Threading\LinqDemo\bin\Debug\LinqDemo.exe.config
 F:\学习\StudyDemo\Threading\LinqDemo\obj\Debug\LinqDemo.exe
 F:\学习\StudyDemo\Threading\LinqDemo\obj\Debug\LinqDemo.pdb
+F:\学习\StudyDemo\Threading\LinqDemo\bin\Debug\LinqDemo.exe
+F:\学习\StudyDemo\Threading\LinqDemo\bin\Debug\LinqDemo.pdb
+F:\学习\StudyDemo\Threading\LinqDemo\obj\Debug\LinqDemo.csprojResolveAssemblyReference.cache

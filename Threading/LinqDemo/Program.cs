@@ -14,6 +14,8 @@ namespace LinqDemo
             DataTable dt = ToSql.CreateDataTable();
             ToSql.QueryByName(dt);
             ToSql.OrderByAgeDesc(dt);
+            LinqWhere.Query();
+            LinqWhere.QueryLambda();
             Console.Read();
         }
 
